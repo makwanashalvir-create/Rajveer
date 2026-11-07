@@ -1,0 +1,6 @@
+{
+  "name": "રાજવીર ઓનલાઇન સર્વિસીસ - સરકારી દસ્તાવેજ સહાય કેન્દ્ર",
+  "description": "રાજવીર ઓનલાઇન સર્વિસીસ, વારાહી. પાન કાર્ડ, આધાર સહાય, આયુષ્માન ભારત, રેશન કાર્ડ, મુદ્રા લોન અને સરકારી યોજનાઓની ઓનલાઇન અરજી સેવા.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
